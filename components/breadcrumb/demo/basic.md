@@ -20,7 +20,7 @@ ReactDOM.render(
   <Breadcrumb>
     <Breadcrumb.Item>Home</Breadcrumb.Item>
     <Breadcrumb.Item>
-      <a href="">Application Center</a>
+      <a href="">Application</a>
     </Breadcrumb.Item>
     <Breadcrumb.Item>
       <a href="">Application List</a>
